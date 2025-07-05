@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "First Moon Landing",
+    "date": "1969-07-20",
+    "description": "Apollo 11 successfully lands humans on the Moon."
+  },
+  {
+    "id": 2,
+    "title": "Halley's Comet Pass",
+    "date": "1986-02-09",
+    "description": "Last appearance of Halley's Comet."
+  }
+]
